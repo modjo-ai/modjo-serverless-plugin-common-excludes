@@ -1,25 +1,25 @@
 {
-  "name": "serverless-plugin-common-excludes",
-  "version": "3.0.0",
-  "description": "Adds some common exclude items to your package exclude",
+  "name": "@modjo-ai/modjo-serverless-plugin-common-excludes",
+  "version": "1.0.0",
+  "description": "Is a fork of serverless-plugin-common-exclude",
   "main": "common-excludes.js",
   "scripts": {
     "test": "eslint ."
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dougmoscrop/serverless-plugin-common-excludes.git"
+    "url": "git+https://github.com/mojdo-ai/modjo-serverless-plugin-common-excludes.git"
   },
   "keywords": [
     "serverless",
     "plugin"
   ],
-  "author": "Doug Moscrop <doug.moscrop@gmail.com>",
+  "author": "Matthieu de La Fourniere <matthieu@modjo.ai>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dougmoscrop/serverless-plugin-common-excludes/issues"
+    "url": "https://github.com/mojdo-ai/modjo-serverless-plugin-common-excludes/issues"
   },
-  "homepage": "https://github.com/dougmoscrop/serverless-plugin-common-excludes#readme",
+  "homepage": "https://github.com/mojdo-ai/modjo-serverless-plugin-common-excludes#readme",
   "devDependencies": {
     "eslint": "^5.14.1"
   }
